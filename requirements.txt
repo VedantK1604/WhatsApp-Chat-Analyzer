@@ -4,6 +4,3 @@ seaborn
 numpy 
 pandas
 emoji
-collections
-wordcloud
-urlextract
